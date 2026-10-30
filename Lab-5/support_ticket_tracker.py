@@ -107,6 +107,5 @@ def main():
         close_ticket(ticket_id)
     save_tickets()
 
-
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+        main()
